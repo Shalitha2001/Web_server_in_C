@@ -1,3 +1,5 @@
+### **Lightweight HTTP server in C**
+
 This is my web server project in C is a lightweight HTTP server that listens on port 8080 and serves static files from a public directory. Here’s a brief overview of its key features:
 
 ### **Key Features:**
